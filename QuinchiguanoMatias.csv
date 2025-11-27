@@ -1,0 +1,11 @@
+Geoposicion;Lunes;Martes;Miercoles;Jueves;Viernes;TipoArsenal
+Coord-01;01-02;;;;;a
+Coord-07;;;;04-08;;abc
+Coord-02;;02-04;;;;a
+Coord-08;;02-04;;;;abc
+Coord-04;;;;04-08;;abc
+Coord-08;;02-04;;;;abc
+Coord-02;;02-04;;;;a
+Coord-01;01-02;;;;;a
+Coord-04;;;;04-08;;abc
+Coord-00;;;;;;a
