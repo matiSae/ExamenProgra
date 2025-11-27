@@ -8,7 +8,7 @@ Cedula: 1728482140
 
 ## Link Repositorio Github
 
-[Link github](https://github.com/matiSae/ExamenProgra)
+https://github.com/matiSae/ExamenProgra
 
 ## Refactorización
 
